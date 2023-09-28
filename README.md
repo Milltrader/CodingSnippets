@@ -1,6 +1,6 @@
 # CodingSnippets
 
-![Background Image or Header](https://unsplash.com/photos/5STW4uXIhqE)
+![Background Image or Header]([https://unsplash.com/photos/5STW4uXIhqE](https://images.unsplash.com/photo-1586075010923-2dd4570fb338?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z3JleXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60))
 
 Hello! I'm [Your Name], and this repository is dedicated to documenting my progress as I dive deeper into the world of Python. Over the past [X years/months], I have been continuously improving and building upon my Python skills. This page is a reflection of that journey.
 
