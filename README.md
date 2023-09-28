@@ -4,6 +4,7 @@ Hello! I'm Artemii, and this repository is dedicated to documenting my progress 
 
 ![Python-logo-notext svg](https://github.com/Milltrader/CodingSnippets/assets/136706246/31492d3e-159e-4044-ace4-850786204264|width=10px)
 
+<img src="https://github.com/Milltrader/CodingSnippets/assets/136706246/31492d3e-159e-4044-ace4-850786204264" width="100" height="100">
 
 ## Other Repositories
 - **[Repository Name 1]**(URL_TO_REPOSITORY_1): Brief description of what this repository is about.
