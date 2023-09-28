@@ -2,7 +2,7 @@
 
 Hello! I'm Artemii, and this repository is dedicated to documenting my progress as I dive deeper into the world of Python. Over the past months, I have been continuously improving and building upon my Python skills. This page is a reflection of that journey.
 
-![Python-logo-notext svg](https://github.com/Milltrader/CodingSnippets/assets/136706246/31492d3e-159e-4044-ace4-850786204264 =250x250)
+![Python-logo-notext svg](https://github.com/Milltrader/CodingSnippets/assets/136706246/31492d3e-159e-4044-ace4-850786204264 |width=100px)
 
 
 ## Other Repositories
