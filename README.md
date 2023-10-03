@@ -3,18 +3,24 @@
 Hello! I'm Artemii, and this repository is dedicated to documenting my progress as I dive deeper into the world of Python. Over the past months, I have been continuously improving and building upon my Python skills. This page is a reflection of that journey.
 
 ## My Projects
+  
+ **General Python** 
+  ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat)
+- **Coffee Machine**(https://github.com/Milltrader/redesigned-goggles/blob/main/Coffe_Machine.py): Simulated coffee machine processes and practised classes.
+- **Loan Calculator**(https://github.com/Milltrader/redesigned-goggles/blob/main/Credit_Calc.py): Created simple loan calculator and practiced argparse module and calculations in Python.
+- **Hangman**(https://github.com/Milltrader/redesigned-goggles/blob/main/Hang_Man.py): Brief description of what this repository is about.
 
-[![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat)](link_to_easy_projects)
-- **[Coffee Machine]**(https://github.com/Milltrader/redesigned-goggles/blob/main/Coffe_Machine.py): Brief description of what this repository is about.
-- **[Loan Calculator]**(https://github.com/Milltrader/redesigned-goggles/blob/main/Credit_Calc.py): Brief description of what this repository is about.
-- **[Hangman]**(https://github.com/Milltrader/redesigned-goggles/blob/main/Hang_Man.py): Brief description of what this repository is about.
-[![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat)]
-- **[Online Translator]**(https://github.com/Milltrader/redesigned-goggles/blob/main/online_translator.py): Brief description of what this repository is about.
-[![Hard](https://img.shields.io/badge/-Hard-orange?style=flat)]
-- **[Hacking a Server]**(https://github.com/Milltrader/redesigned-goggles/blob/main/hacking_a_server.py): Brief description of what this repository is about.
-- **[Text Generator]**(https://github.com/Milltrader/TextGenerator): Brief description of what this repository is about.
+![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat)
+- **Online Translator**(https://github.com/Milltrader/redesigned-goggles/blob/main/online_translator.py): Brief description of what this repository is about.
 
-- *(Continue listing other repositories)*
+![Hard](https://img.shields.io/badge/-Hard-orange?style=flat)
+- **Hacking a Server**(https://github.com/Milltrader/redesigned-goggles/blob/main/hacking_a_server.py): Brief description of what this repository is about.
+- **Text Generator**(https://github.com/Milltrader/TextGenerator): Brief description of what this repository is about.
+
+ **Data Analysis** 
+- **HR Data Analysis**(https://github.com/Milltrader/redesigned-goggles/blob/main/HR%20Data%20Analysis.py): Brief description of what this repository is about.
+- **NBA Data Preprocessing**(https://github.com/Milltrader/redesigned-goggles/blob/main/NBA_data_preprocessing.py): Brief description of what this repository is about.
+- **Hospital Data Aanalysis**(https://github.com/Milltrader/redesigned-goggles/blob/main/hospital_data_analysis.py): Brief description of what this repository is about.
 
 ## Connect with Me
 - **LinkedIn**: [Your LinkedIn Profile Name](YOUR_LINKEDIN_PROFILE_URL)
