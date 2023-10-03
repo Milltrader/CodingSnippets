@@ -3,8 +3,17 @@
 Hello! I'm Artemii, and this repository is dedicated to documenting my progress as I dive deeper into the world of Python. Over the past months, I have been continuously improving and building upon my Python skills. This page is a reflection of that journey.
 
 ## My Projects
-- **[Repository Name 1]**(URL_TO_REPOSITORY_1): Brief description of what this repository is about.
-- **[Repository Name 2]**(URL_TO_REPOSITORY_2): Brief description of what this repository is about.
+
+[![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat)](link_to_easy_projects)
+- **[Coffee Machine]**(https://github.com/Milltrader/redesigned-goggles/blob/main/Coffe_Machine.py): Brief description of what this repository is about.
+- **[Loan Calculator]**(https://github.com/Milltrader/redesigned-goggles/blob/main/Credit_Calc.py): Brief description of what this repository is about.
+- **[Hangman]**(https://github.com/Milltrader/redesigned-goggles/blob/main/Hang_Man.py): Brief description of what this repository is about.
+[![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat)]
+- **[Online Translator]**(https://github.com/Milltrader/redesigned-goggles/blob/main/online_translator.py): Brief description of what this repository is about.
+[![Hard](https://img.shields.io/badge/-Hard-orange?style=flat)]
+- **[Hacking a Server]**(https://github.com/Milltrader/redesigned-goggles/blob/main/hacking_a_server.py): Brief description of what this repository is about.
+- **[Text Generator]**(https://github.com/Milltrader/TextGenerator): Brief description of what this repository is about.
+
 - *(Continue listing other repositories)*
 
 ## Connect with Me
