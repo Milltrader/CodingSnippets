@@ -26,27 +26,18 @@ The code downloads three XML files containing employee data if they aren't local
 - **NBA Data Preprocessing** (https://github.com/Milltrader/redesigned-goggles/blob/main/NBA_data_preprocessing.py): The script performs a data preparation and pre-processing pipeline for a dataset related to NBA players with an intent to ready it for future machine learning analysis. It automatically downloads the dataset if not locally available, cleans and manipulates the data (like calculating new features and converting variables), addresses multicollinearity, and finally, standardizes numerical features and one-hot encodes categorical features, thus providing cleaned and transformed data for model development.
 - **Hospital Data Analysis** (https://github.com/Milltrader/HospitalData): The code performs several data manipulation and visualization tasks on medical data from three different types of hospitals using the Pandas, Matplotlib, and Seaborn libraries
 
-## Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile Name](YOUR_LINKEDIN_PROFILE_URL)
-- **Twitter**: [@yourtwitterhandle](YOUR_TWITTER_PROFILE_URL)
-- **Instagram**: [@yourinstagramhandle](YOUR_INSTAGRAM_PROFILE_URL)
-- *(Any other social media profiles you'd like to include)*
 
-## My Knowledge 
+## My Skills 
 <img src="https://github.com/Milltrader/CodingSnippets/assets/136706246/31492d3e-159e-4044-ace4-850786204264" width="130" height="130">
 <img src="https://github.com/Milltrader/CodingSnippets/assets/136706246/5b59f741-e407-4216-b83c-1a1e3719f0e9" width="150" height="150">
 <img src="https://github.com/Milltrader/CodingSnippets/assets/136706246/46140334-88d3-47ae-a3db-7c60e4fe7f27" width="200" height="120">
 <img src="https://github.com/Milltrader/CodingSnippets/assets/136706246/c7725fb8-cee2-429f-9aa9-813c1575da51" width="220" height="110">
 
-- **Degree**: Bachelor's/Master's in [Field], [University Name], [Year Graduated]
-- **Certifications**:
-  - [Certification Name 1]: Brief description or details
-  - [Certification Name 2]: Brief description or details
-- **Courses Completed**:
-  - [Course Name 1]: Brief description or details
-  - [Course Name 2]: Brief description or details
-- *(Include any other qualifications or accomplishments related to Python or tech in general)*
+Python: Basic to advanced knowledge of Python, with approximately 200 hours of coursework covering various aspects such as algorithm development, regular expressions, and natural language processing tools.
+Pandas:  Capable of leveraging Pandas for data manipulation and analysis.
+Matplotlib: Capable of utilizing Matplotlib for data visualization, including plotting graphs and charts for data interpretation.
+SQL: Skilled in SQL for database management, query formulation, and data retrieval.
 
----
-
-Feel free to ask questions, provide feedback, or collaborate with me on exciting Python projects. Happy coding!
+## Connect with Me
+- **LinkedIn**: [Artemii Pazhitnov](https://www.linkedin.com/in/tomas-milosh-178bb41b6/)
+- **Telegram**: [@Milltrader](https://t.me/Milltrader)
