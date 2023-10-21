@@ -39,5 +39,5 @@ Matplotlib: Capable of utilizing Matplotlib for data visualization, including pl
 SQL: Skilled in SQL for database management, query formulation, and data retrieval.
 
 ## Connect with Me
-- **LinkedIn**: [Artemii Pazhitnov](https://www.linkedin.com/in/tomas-milosh-178bb41b6/)
+- **LinkedIn**: [Artemii Pazhitnov](https://www.linkedin.com/in/artemii-pazhitnov-178bb41b6/)
 - **Telegram**: [@Milltrader](https://t.me/Milltrader)
