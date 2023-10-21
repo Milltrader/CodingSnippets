@@ -8,12 +8,12 @@ Hello! I'm Artemii, and this repository is dedicated to documenting my progress 
  
   ![Easy](https://img.shields.io/badge/-Easy-brightgreen?style=flat)
 - **Coffee Machine** (https://github.com/Milltrader/redesigned-goggles/blob/main/Coffe_Machine.py): Simulated coffee machine processes and practised classes.
-- **Loan Calculator** (https://github.com/Milltrader/redesigned-goggles/blob/main/Credit_Calc.py): Created a simple loan calculator and practiced argparse module and calculations in Python.
+- **Loan Calculator** (https://github.com/Milltrader/redesigned-goggles/blob/main/Credit_Calc.py): Created a simple loan calculator and practised argparse module and calculations in Python.
 - **Hangman** (https://github.com/Milltrader/redesigned-goggles/blob/main/Hang_Man.py): Created a hangman game with attempts and score counts. Mostly used functions, while loops and if conditions.
 
 ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat)
 - **Online Translator** (https://github.com/Milltrader/redesigned-goggles/blob/main/online_translator.py): 
-The program interfaces with the Context Reverso translator, allowing users to perform word translations via the terminal, saving results in a text file, while handling basic exceptions and providing an option to translate into all supported languages. Practiced BeautifulSoup library and interaction with websites.
+The program interfaces with the Context Reverso translator, allowing users to perform word translations via the terminal, saving results in a text file, while handling basic exceptions and providing an option to translate into all supported languages. Practised BeautifulSoup library and interaction with websites.
 
 ![Hard](https://img.shields.io/badge/-Hard-orange?style=flat)
 - **Hacking a Server** (https://github.com/Milltrader/redesigned-goggles/blob/main/hacking_a_server.py): The provided Python script attempts a kind of time-based side-channel attack on a socket server, trying different login names from a pre-stored list and, upon identifying a login with a "Wrong password!" response, proceeds to iteratively guess the password by monitoring response times and appending characters accordingly until "Connection success!" is achieved. Networking, socket programming and basic cybersecurity knowledge.
